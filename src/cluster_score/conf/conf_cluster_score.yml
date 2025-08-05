@@ -1,0 +1,9 @@
+    directory_dcm : '\\IHSR.dom\OSRFileServices\Ric.FisicaSanitaria\AAAshared\dataset\Heart_Toxicity\Heart_db_organized_06032024' #input directory
+  
+    directory_out : 'F:\Belardo\Cardio\DB'
+
+    patient_ids : ['6020376']
+
+    RTst_name : 'MIM'
+
+    roi_name : 'Heart'
