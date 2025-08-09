@@ -1,6 +1,3 @@
-import numpy as np
-
-
 def agatson_score(filtered_array, cluster, pixel_spacing):
     # Print the values of filtered_array at the coordinates in cluster
     score = 0

@@ -2,6 +2,11 @@
 
 This script extracts and processes Coronary Artery Calcium (CAC) scores from DICOM RTSTRUCT files. It outputs an Excel summary of patient IDs, ROI names, CAC scores, and related metadata.
 
+## install dependencies
+A pyproject.toml is present.
+Create a python venv using a python version >=3.10.
+Execute the command `pip install -e .`.
+
 ## testing notebook
 
 An IBSI test patient is included inside the test folder, with GTV as the only ROI available.
